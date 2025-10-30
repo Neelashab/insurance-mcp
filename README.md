@@ -5,7 +5,7 @@ and estimating claims using employee biodata using a linear regression model.
 
 # Tools 
 - search_insurance_plans(): Search for eligible insurance plans based on a company's business profile
-- get_claims_estimate(): Estimate average health insurance claims based on individual biodata. Uses a linear regression model trained on [this Kaggle dataset] (https://www.kaggle.com/datasets/mirichoi0218/insurance).
+- get_claims_estimate(): Estimate average health insurance claims based on individual biodata. Uses a linear regression model trained on [this Kaggle dataset (https://www.kaggle.com/datasets/mirichoi0218/insurance)].
 
 
 # Capabilities
